@@ -1,0 +1,43 @@
+{
+    "username": "dixittt",
+    "name": "Dixit Kumawat",
+    "pro": true,
+    "verified": true,
+    "followers": 6482,
+    "following": 245,
+    "bio": "Co-Founder and CEO at XYZ Company",
+    "instagram": "dixitt._",
+    "stars": 125,
+    "upvotes": 12,
+    "views": "57.8K",
+    "likes": "26.0K",
+    "posts": [
+        {
+            "title" : "A Changing World Order",
+            "description": "The world is changing at a feverish pace. Friends, colleagues and everyone engaged in knowledge work are beginning to sense this, including lorem impsum dorem sum it",
+            "type": "musing",
+            "date": "August 2",
+            "read": 2,
+            "views": 102,
+            "link": "/"
+        },
+        {
+            "title" : "India v/s Australia",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut dapibus sem. Suspendisse vel lacus massa. Vestibulum posuere tincidunt rhoncus. Nam dapibus luctus ni",
+            "type": "thought",
+            "date": "January 21",
+            "read": 1,
+            "views": 156,
+            "link": "/"
+        },
+        {
+            "title" : "Write to build",
+            "description": "Praesent mollis quam sed dapibus cursus. Aenean at risus cursus, mollis tortor et, eleifend nisi. Aenean vehicula diam aliquam tempor venenatis.",
+            "type": "thought",
+            "date": "November 18",
+            "read": 1,
+            "views": 128,
+            "link": "/"
+        }
+    ]
+}
