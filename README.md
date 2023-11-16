@@ -103,5 +103,5 @@ Tailwind CSS is the primary utility-first CSS framework used in this project.
 
 ## Screenshot
 
-![STORIES | TTT](/screenshots/screenshot.JPG)
+![STORIES | TTT](screenshots/screenshot.JPG)
 
