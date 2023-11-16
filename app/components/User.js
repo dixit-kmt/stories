@@ -1,13 +1,19 @@
-"use client"
+"use client";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faGem, faStar, faThumbsUp, faEye, faHeart} from "@fortawesome/free-regular-svg-icons";
+import {
+  faGem,
+  faStar,
+  faThumbsUp,
+  faEye,
+  faHeart,
+} from "@fortawesome/free-regular-svg-icons";
 import { faCheck } from "@fortawesome/free-solid-svg-icons";
 
-function User(props){
+function User(props) {
   const handleScroll = () => {
     const banner = document.querySelector(".banner-image");
     const scrollValue = window.scrollY;
@@ -134,6 +140,6 @@ function User(props){
       </div>
     </div>
   );
-};
+}
 
 export default User;
